@@ -2,10 +2,6 @@
 
 
 
-
-## 🧠ML based crypto fraud detection
-
-
 ## Techniques
 Coming soon
 
