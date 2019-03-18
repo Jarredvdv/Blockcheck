@@ -3,4 +3,4 @@
 
 <img src="images/blockcheck.png"
      alt="blockcheck logo"
-     style="height: 100px;" />
+     style="width: 100px;" />
